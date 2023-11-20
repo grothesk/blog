@@ -9,8 +9,8 @@ export default defineAppConfig({
       height: 300
     },
     header: {
-      position: 'right', // possible value are : | 'left' | 'center' | 'right'
-      logo: false
+      position: 'left', // possible value are : | 'left' | 'center' | 'right'
+      logo: false,
       // logo: {
       //   path: '/logo.svg', // path of the logo
       //   pathDark: '/logo-dark.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
