@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
-  app: {
-    baseURL: "/blog/"
-  },
+  // app: {
+  //   baseURL: "/blog/"
+  // },
 
   // https://github.com/nuxt-themes/alpine
   extends: '@nuxt-themes/alpine',
